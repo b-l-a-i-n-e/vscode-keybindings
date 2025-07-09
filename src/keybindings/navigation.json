@@ -1,0 +1,59 @@
+[
+    {
+        "key": "ctrl+left",
+        "command": "cursorWordLeft"
+    },
+    {
+        "key": "ctrl+right",
+        "command": "cursorWordRight"
+    },
+    {
+        "key": "ctrl+shift+left",
+        "command": "cursorWordLeftSelect"
+    },
+    {
+        "key": "ctrl+shift+right",
+        "command": "cursorWordRightSelect"
+    },
+    {
+        "key": "ctrl+up",
+        "command": "cursorTop"
+    },
+    {
+        "key": "ctrl+down",
+        "command": "cursorBottom"
+    },
+    {
+        "key": "ctrl+shift+up",
+        "command": "cursorTopSelect"
+    },
+    {
+        "key": "ctrl+shift+down",
+        "command": "cursorBottomSelect"
+    },
+
+    {
+        "key": "ctrl+-",
+        "command": "workbench.action.navigateBack"
+    },
+    {
+        "key": "ctrl+=",
+        "command": "workbench.action.navigateForward"
+    },
+    {
+        "key": "ctrl+shift+-",
+        "command": "workbench.action.navigateBack"
+    },
+    {
+        "key": "ctrl+shift+=",
+        "command": "workbench.action.navigateForward"
+    },
+    {
+        "key": "ctrl+shift+[",
+        "command": "workbench.action.previousEditor"
+    },
+    {
+        "key": "ctrl+shift+]",
+        "command": "workbench.action.nextEditor"
+    }
+]

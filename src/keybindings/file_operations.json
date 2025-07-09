@@ -1,0 +1,34 @@
+[
+  {
+    "key": "ctrl+/",
+    "command": "editor.action.commentLine"
+  },
+  {
+    "key": "ctrl+shift+/",
+    "command": "editor.action.blockComment"
+  },
+  {
+    "key": "ctrl+a",
+    "command": "editor.action.selectAll"
+  },
+  {
+    "key": "ctrl+c",
+    "command": "editor.action.clipboardCopyAction"
+  },
+  {
+    "key": "ctrl+v",
+    "command": "editor.action.clipboardPasteAction"
+  },
+  {
+    "key": "ctrl+x",
+    "command": "editor.action.clipboardCutAction"
+  },
+  {
+    "key": "ctrl+z",
+    "command": "undo"
+  },
+  {
+    "key": "ctrl+shift+z",
+    "command": "redo"
+  }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "key": "ctrl+shift+p",
+        "command": "workbench.action.showCommands"
+    },
+    {
+        "key": "ctrl+p",
+        "command": "workbench.action.quickOpen"
+    },
+    {
+        "key": "ctrl+shift+o",
+        "command": "workbench.action.gotoSymbol"
+    },
+    {
+        "key": "ctrl+t",
+        "command": "workbench.action.showAllSymbols"
+    }
+]

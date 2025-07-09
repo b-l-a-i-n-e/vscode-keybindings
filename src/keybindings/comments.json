@@ -1,0 +1,10 @@
+[
+    {
+        "key": "ctrl+/",
+        "command": "editor.action.commentLine"
+    },
+    {
+        "key": "ctrl+shift+/",
+        "command": "editor.action.blockComment"
+    }
+]
