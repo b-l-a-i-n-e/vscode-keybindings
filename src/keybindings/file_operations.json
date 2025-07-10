@@ -1,34 +1,22 @@
 [
   {
-    "key": "ctrl+/",
-    "command": "editor.action.commentLine"
+    "key": "ctrl+s",
+    "command": "workbench.action.files.save"
   },
   {
-    "key": "ctrl+shift+/",
-    "command": "editor.action.blockComment"
+    "key": "ctrl+o",
+    "command": "workbench.action.files.openFile"
   },
   {
-    "key": "ctrl+a",
-    "command": "editor.action.selectAll"
+    "key": "ctrl+n",
+    "command": "workbench.action.files.newUntitledFile"
   },
   {
-    "key": "ctrl+c",
-    "command": "editor.action.clipboardCopyAction"
+    "key": "ctrl+w",
+    "command": "workbench.action.closeActiveEditor"
   },
   {
-    "key": "ctrl+v",
-    "command": "editor.action.clipboardPasteAction"
-  },
-  {
-    "key": "ctrl+x",
-    "command": "editor.action.clipboardCutAction"
-  },
-  {
-    "key": "ctrl+z",
-    "command": "undo"
-  },
-  {
-    "key": "ctrl+shift+z",
-    "command": "redo"
+    "key": "ctrl+shift+n",
+    "command": "workbench.action.newWindow"
   }
 ]
