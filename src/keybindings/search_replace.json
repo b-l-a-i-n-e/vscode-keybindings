@@ -1,18 +1,18 @@
 [
-    {
-        "key": "ctrl+f",
-        "command": "actions.find"
-    },
-    {
-        "key": "ctrl+shift+f",
-        "command": "workbench.action.findInFiles"
-    },
-    {
-        "key": "ctrl+h",
-        "command": "editor.action.startFindReplaceAction"
-    },
-    {
-        "key": "ctrl+shift+h",
-        "command": "workbench.action.replaceInFiles"
-    }
+  {
+    "key": "ctrl+f",
+    "command": "actions.find"
+  },
+  {
+    "key": "ctrl+shift+f",
+    "command": "workbench.action.findInFiles"
+  },
+  {
+    "key": "ctrl+h",
+    "command": "editor.action.startFindReplaceAction"
+  },
+  {
+    "key": "ctrl+shift+h",
+    "command": "workbench.action.replaceInFiles"
+  }
 ]
